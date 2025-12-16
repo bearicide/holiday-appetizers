@@ -41,3 +41,40 @@ One consolidated shopping list covering both appetizers, styled to match the rec
 
 ## Files
 
+
+/
+├── index.html
+├── mac-cheese-parcels.png
+├── crab-rangoon-twists.png
+├── shopping-list.png
+└── README.md
+
+
+---
+
+## How to Use
+
+1. Open `index.html` in any browser  
+2. Download individual recipe cards or the shopping list as needed  
+3. Make ahead, freeze, and bake day-of for minimal stress  
+
+---
+
+## Notes
+
+- All recipes are designed for **make-ahead holiday cooking**
+- Puff pastry is doing most of the heavy lifting
+- These are appetizers, not meals — no nap required after eating
+
+---
+
+## License
+
+Use it, share it, feed people with it.  
+No gatekeeping food.
+
+---
+
+Built with ❤️, butter, and mild organizational anxiety.
+
+
